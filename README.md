@@ -25,5 +25,5 @@ Este proyecto es un conversor de monedas desarrollado en Java. Permite convertir
 Las contribuciones al proyecto son bienvenidas. Si deseas colaborar, puedes enviar pull requests con mejoras, correcciones de errores o nuevas funcionalidades.
 
 ## Contacto
-- Email: jcmorneo@example.com
+- Email: morenojuancarlos350@gmail.com
 - LinkedIn: [Carlos Moreno](www.linkedin.com/in/carlos-moreno-836b962bb)
