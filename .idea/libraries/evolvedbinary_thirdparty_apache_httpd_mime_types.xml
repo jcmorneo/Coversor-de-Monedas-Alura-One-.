@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="evolvedbinary.thirdparty.apache.httpd.mime.types" type="repository">
+    <properties maven-id="com.evolvedbinary.thirdparty.org.apache.httpd:apache-httpd-mime-types:2.4.46+1.0.0" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/apache-httpd-mime-types-2.4.46+1.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

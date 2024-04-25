@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="co.elastic.logging.ecs.core" type="repository">
+    <properties maven-id="co.elastic.logging:ecs-logging-core:1.5.0" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/ecs-logging-core-1.5.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
