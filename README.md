@@ -26,4 +26,4 @@ Las contribuciones al proyecto son bienvenidas. Si deseas colaborar, puedes envi
 
 ## Contacto
 - Email: morenojuancarlos350@gmail.com
-- LinkedIn: [Carlos Moreno](www.linkedin.com/in/carlos-moreno-836b962bb)
+- LinkedIn: (www.linkedin.com/in/carlos-moreno-836b962bb)
